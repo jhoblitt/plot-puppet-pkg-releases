@@ -11,6 +11,22 @@ packages for EL6 "binned" by month.  There are three different representations.
 
 ![EL6 Package Releases](./el6_pkg_releases.png)
 
+Discussion
+----------
+
+This plot was produced in response to the discussion of the open source
+puppet+related product releases shifting from being individually packaged to a
+single "all in one" (AIO) mega-package that bundles all dependencies.
+
+The "unique min" resolution is likely indicative of how many AIO releases there
+would be if a new package was created every time a new product version was
+released.
+
+The "unique day" resolution is likely indicative of the number of AIO releases
+under a scheme of generating a new "nightly" package only if any new components were
+released that day.  If the historical trend holds, that would mean ~1 AIO
+release a week.
+
 Data Collection
 ---------------
 
