@@ -1,13 +1,13 @@
-Histogram of PuppetLabs' Package releases
-=========================================
+Histogram of PuppetLabs' package releases for EL6
+=================================================
 
 This is a histogram of the release (or creation) timestamps of Puppetlabs' RPM
 packages for EL6 "binned" by month.  There are three different representations.
 
-1) The timestamp of each individual package (1 minute resolution)
-2) Unique timestamps by minute; Eg., if 5 packages have equivalent timestamps
+1. The timestamp of each individual package (1 minute resolution)
+2. Unique timestamps by minute; Eg., if 5 packages have equivalent timestamps
    (at 1 minute resolution) they are combined into a single data point
-3) Unique timestamps by day
+3. Unique timestamps by day
 
 ![EL6 Package Releases](./el6_pkg_releases.png)
 
