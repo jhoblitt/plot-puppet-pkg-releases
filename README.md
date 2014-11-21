@@ -61,7 +61,7 @@ developed to achieve this using gnuplot is possibly novel, was developed in the
 early hours of the day before caffeine ingestion and has not been independently
 verified to be correct.
 
-These links were use full in developing the "binning" technique:
+These links were useful in developing the "binning" technique:
 
 * http://psy.swansea.ac.uk/staff/carter/gnuplot/gnuplot_time_histograms.htm
 * https://stackoverflow.com/questions/2471884/histogram-using-gnuplot
